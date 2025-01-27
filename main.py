@@ -11,5 +11,5 @@ print((2 * 2 + 2) == (2 * (2 + 2)))
 
 
 # 4th program
-s = 123.456
+s = '123.456'
 print(int(float(s) * 10 % 10))
